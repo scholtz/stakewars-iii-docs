@@ -150,3 +150,7 @@ you might want to use other PVC which automatically creates PV
 # apply config to k8s
 kubectl apply -f near-cli-deployment.yaml
 ```
+
+In K8S dashboard exec to pod
+
+![](<../.gitbook/assets/image (3).png>)
