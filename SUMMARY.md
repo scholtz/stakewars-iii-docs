@@ -26,3 +26,7 @@
 ## Challange 4
 
 * [Monitoring](challange-4/monitoring.md)
+
+## Challange 5
+
+* [Docs](challange-5/docs.md)
