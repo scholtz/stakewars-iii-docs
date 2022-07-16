@@ -7,3 +7,7 @@
 * [Hetzner](kubernetes-setup/hetzner.md)
 * [Linode](kubernetes-setup/linode.md)
 * [Microsoft Azure](kubernetes-setup/microsoft-azure.md)
+
+## Challange 1
+
+* [Run CLI](challange-1/run-cli.md)
