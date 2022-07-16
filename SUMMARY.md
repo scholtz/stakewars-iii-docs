@@ -11,3 +11,7 @@
 ## Challange 1
 
 * [Run CLI](challange-1/run-cli.md)
+
+## Challange 2
+
+* [Build neard](challange-2/build-neard.md)
