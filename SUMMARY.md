@@ -17,3 +17,8 @@
 * [Build neard](challange-2/build-neard.md)
 * [Run node](challange-2/run-node.md)
 * [Validator key](challange-2/validator-key.md)
+
+## Challange 3
+
+* [Add stake to validator](challange-3/add-stake-to-validator.md)
+* [Cron job](challange-3/cron-job.md)
