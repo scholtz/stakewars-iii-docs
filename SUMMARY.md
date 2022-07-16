@@ -16,3 +16,4 @@
 
 * [Build neard](challange-2/build-neard.md)
 * [Run node](challange-2/run-node.md)
+* [Validator key](challange-2/validator-key.md)
