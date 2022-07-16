@@ -6,11 +6,11 @@ Navigate to [https://hetzner.cloud/](https://hetzner.cloud/?ref=TMLy7z7pZnk9)
 
 I recommend Dedicated AX-Line
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 I do run serveral AX101 servers - AMD Ryzen™ 9 5950X , 128 GB DDR4 ECC, 2 x 3.84 TB NVME, unlimitted traffic @ 111.86 EUR (including VAT)
 
-![](<../.gitbook/assets/image (1).png>)![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (2).png>)![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (7).png>)![](<../.gitbook/assets/image (4).png>)![](<../.gitbook/assets/image (8).png>)
 
 In rescue mode format drives to be in sw raid.
 
