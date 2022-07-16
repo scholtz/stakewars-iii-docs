@@ -22,3 +22,7 @@
 
 * [Add stake to validator](challange-3/add-stake-to-validator.md)
 * [Cron job](challange-3/cron-job.md)
+
+## Challange 4
+
+* [Monitoring](challange-4/monitoring.md)
