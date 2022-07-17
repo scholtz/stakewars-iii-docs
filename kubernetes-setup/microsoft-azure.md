@@ -1,5 +1,11 @@
 # Microsoft Azure
 
+### Pricing
+
+Cheapest possible variant for stakewars cost $30 per server plus $50 per storage  /  2 CPU , 4 GB DDR4 RAM, 500 GB storage (might be incemented in time)
+
+### Setup cluster
+
 Search for kubernetes
 
 ![](<../.gitbook/assets/image (11).png>)![](<../.gitbook/assets/image (4) (1).png>)
