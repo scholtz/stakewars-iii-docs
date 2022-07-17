@@ -1,5 +1,9 @@
 # Hetzner
 
+### Pricing
+
+Cheapest possible variant for stakewars cost € 34.00 / month for new server (AX41-NVMe) - 6 cores / 12 threads @ 3.6 GHz, 64 GB DDR4 RAM, 2 x 512 GB NVMe SSD
+
 ### Buy server
 
 Navigate to [https://hetzner.cloud/](https://hetzner.cloud/?ref=TMLy7z7pZnk9)
