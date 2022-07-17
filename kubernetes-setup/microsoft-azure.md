@@ -2,7 +2,7 @@
 
 ### Pricing
 
-Cheapest possible variant for stakewars cost $30 per server plus $50 per storage  /  2 CPU , 4 GB DDR4 RAM, 500 GB storage (might be incemented in time)
+Cheapest possible variant for stakewars cost EUR 70 per server plus storage plus logs plus support /  2 CPU , 8 GB DDR4 RAM, 500 GB storage
 
 ### Setup cluster
 
