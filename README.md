@@ -6,10 +6,17 @@ description: >-
 
 # Stake Wars: Episode III. Challenge 005
 
+## Web view
+{% embed url="https://ludovit-scholtz.gitbook.io/stakewars-iii/" %}
+[https://ludovit-scholtz.gitbook.io/stakewars-iii/](https://ludovit-scholtz.gitbook.io/stakewars-iii/)
+{% endembed %}
+
+## Challange
 {% embed url="https://github.com/near/stakewars-iii/blob/main/challenges/005.md" %}
 [https://github.com/near/stakewars-iii/blob/main/challenges/005.md](https://github.com/near/stakewars-iii/blob/main/challenges/005.md)
 {% endembed %}
 
+## Github
 {% embed url="https://github.com/scholtz/stakewars-iii-docs" %}
 This docs are in git: [https://github.com/scholtz/stakewars-iii-docs](https://github.com/scholtz/stakewars-iii-docs)
 {% endembed %}
