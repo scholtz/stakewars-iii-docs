@@ -47,28 +47,29 @@ spec:
           env:
             - name: NEAR_ENV
               value: shardnet
+          env:
+            - name: RUST_BACKTRACE
+              value: "1"
           ports:
           -
             containerPort: 3030
             protocol: "TCP"  
           -
-            containerPort: 24567
+            containerPort: 34567
             protocol: "TCP"  
           startupProbe:
-              tcpSocket:
-                port: 24567
-              initialDelaySeconds: 600
-              periodSeconds: 10
-          readinessProbe:
-              tcpSocket:
-                port: 24567
-              initialDelaySeconds: 600
-              periodSeconds: 10
+              httpGet:
+                path: /health
+                port: 3030
+              initialDelaySeconds: 60
+              periodSeconds: 60
+              failureThreshold: 1000
           livenessProbe:
-              tcpSocket:
-                port: 24567
-              initialDelaySeconds: 600
-              periodSeconds: 10
+              httpGet:
+                path: /health
+                port: 3030
+              initialDelaySeconds: 20
+              periodSeconds: 60
           lifecycle:
             preStop:
               exec:
