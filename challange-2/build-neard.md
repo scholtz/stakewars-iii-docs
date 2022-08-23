@@ -39,8 +39,6 @@ echo "$@"
 if [ ! -f /app/.near/config.json ]
 then
     echo "Welcome to near blockchain. Downloading snapshot."
-	wget -c http://build.openshards.io.s3.amazonaws.com/stakewars/shardnet/data.tar.gz
-	tar -xvzf data.tar.gz -C /app/.near/
 	neard --home /app/.near init --chain-id shardnet --download-genesis
 	rm /app/.near/config.json && wget -O /app/.near/config.json https://s3-us-west-1.amazonaws.com/build.nearprotocol.com/nearcore-deploy/shardnet/config.json
 else
